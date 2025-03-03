@@ -3,6 +3,8 @@
 ## Overview
 Welcome to my personal portfolio website! I'm Siddharth Choudhury, a passionate Data Science and AI enthusiast. This site showcases my education, experience, projects, technical skills, certifications, awards, and extracurricular activities. I've built this portfolio using modern web technologies to highlight my work and expertise interactively.
 
+You can visit my portfolio here: [sidd2310.github.io/Portfolio](https://sidd2310.github.io/Portfolio/)
+
 ## Features
 - **Personal Introduction**: A glimpse into my background, expertise, and professional journey.
 - **Responsive Design**: The site is fully mobile-friendly and adapts to different devices.
